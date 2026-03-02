@@ -1,0 +1,13 @@
+#supervisor
+userName - supervisor
+password - supervisor123
+
+#admin
+userName - admin
+password - admin123
+
+#student
+userName - std001
+password - password123
+
+
